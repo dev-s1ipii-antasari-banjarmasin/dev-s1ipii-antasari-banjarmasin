@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[LOGO Tulisan IPII-01.jpg](https://github.com/dev-s1ipii-antasari-banjarmasin/dev-s1ipii-antasari-banjarmasin/blob/main/LOGO%20Tulisan%20IPII-01.png)" alt="Banner IPII UIN Antasari" width="800">
+  <img src="https://github.com/dev-s1ipii-antasari-banjarmasin/dev-s1ipii-antasari-banjarmasin/blob/main/LOGO%20Tulisan%20IPII-01.png" alt="Banner IPII UIN Antasari" width="800">
 
   # Selamat Datang di GitHub Resmi IPII UIN Antasari Banjarmasin! 📚✨
   
@@ -10,7 +10,7 @@
 
 ## 📖 Tentang Kami
 
-<img align="right" src="[Logo IPII November-16.jpg](https://github.com/dev-s1ipii-antasari-banjarmasin/dev-s1ipii-antasari-banjarmasin/blob/main/Logo%20IPII%20November-16.png)" alt="Logo Emblem IPII" width="200">
+<img align="right" src="https://github.com/dev-s1ipii-antasari-banjarmasin/dev-s1ipii-antasari-banjarmasin/blob/main/Logo%20IPII%20November-16.png" alt="Logo Emblem IPII" width="200">
 
 **Program Studi Ilmu Perpustakaan dan Informasi Islam (IPII)** di Universitas Islam Negeri (UIN) Antasari Banjarmasin berdedikasi untuk mencetak pustakawan, pengelola informasi, dan arsiparis yang tidak hanya unggul dalam manajemen perpustakaan tradisional, tetapi juga adaptif terhadap perkembangan teknologi informasi digital.
 
